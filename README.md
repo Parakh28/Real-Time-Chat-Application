@@ -1,4 +1,5 @@
 # ChatMate
+
 ![image](https://github.com/user-attachments/assets/07c29493-b530-475c-8fbb-0f293f818f9a)
 
 ChatMate is a Full Stack Chatting App.
@@ -38,6 +39,10 @@ Uses Socket.io for real time communication and stores user details in encrypted 
 
 ### View Other user Profile
 ![image](https://github.com/user-attachments/assets/3356e05c-6ea9-42a9-a835-3f3dd67c8e66)
+
+## Demo Video
+
+https://github.com/user-attachments/assets/ac278e12-0425-4535-92b1-f44f40ff132e
 
 
 ## Made By
